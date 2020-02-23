@@ -1,0 +1,6 @@
+self.labelEdge = ko.observable('top');
+self.childLabelEdge = ko.observable('provided');
+
+self.direction = ko.observable('column');
+self.maxColumnsString = ko.observable('1');
+self.labelWrap = ko.observable('wrap');

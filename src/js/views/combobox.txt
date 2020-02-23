@@ -1,0 +1,9 @@
+<oj-label for="combobox-one">Single-select Combobox</oj-label>
+<oj-combobox-one id="combobox-one" value="{{val}}"
+style="max-width:20em">
+<oj-option value="Internet Explorer">Internet Explorer</oj-option>
+<oj-option value="Firefox">Firefox</oj-option>
+<oj-option value="Chrome">Chrome</oj-option>
+<oj-option value="Opera">Opera</oj-option>
+<oj-option value="Safari">Safari</oj-option>
+</oj-combobox-one>
